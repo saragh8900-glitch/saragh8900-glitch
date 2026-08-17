@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Sara Alghamdi
 
-<!--
-**saragh8900-glitch/saragh8900-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming and Smart Devices Student  
+Interested in Software Development, Data Analysis, Artificial Intelligence & Cloud Computing
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming & Web Development
+- HTML & CSS
+- JavaScript
+- PHP
+- MySQL
+- Python
+
+### 📊 Data & Analytics
+- Microsoft Excel
+- Power BI
+
+### 🤖 AI & Development Tools
+- IBM Bob
+- AI-assisted Development
+- Git & GitHub
+- Visual Studio Code
+
+## 🚀 Projects
+
+### 🎓 University Course Evaluation
+A smart web platform where students can evaluate university instructors, view ratings, and explore student feedback.
+
+### 🏥 Surgical Safety System
+A smart system designed to track surgical instruments using computer vision and help detect missing instruments before and after surgery.
+
+## 🌱 Currently Learning
+
+- Data Analysis
+- Cloud Computing
+- Web Development
+- Artificial Intelligence
+
+## 🎯 Career Interests
+
+- Software Development
+- Data Analysis
+- Artificial Intelligence
+- Cloud Computing
+
+## 📫 Connect with Me
+
+- GitHub: [Sara Alghamdi](https://github.com/sarah8900-glitch)
