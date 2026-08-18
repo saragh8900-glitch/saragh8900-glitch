@@ -47,3 +47,4 @@ A smart system designed to track surgical instruments using computer vision and 
 ## 📫 Connect with Me
 
 - GitHub: [Sara Alghamdi](https://github.com/sarah8900-glitch)
+- Linkedin:[ https://www.linkedin.com/in/sara-a-616834312?utm_source=share_via&utm_content=profile&utm_medium=member_ios ]
